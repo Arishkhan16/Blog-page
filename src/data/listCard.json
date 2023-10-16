@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "title": "The Impact Of Technology on the Workplace",
+        "category": "Technology",
+        "author": "Jason Franco",
+        "date": "August 20, 2022",
+        "image": "assets/img/brand-1.webp",
+        "authorImg":"assets/img/avatar-img.webp"
+    },
+
+    {
+        "id": 2,
+        "title": "The Impact Of Technology on the Workplace",
+        "category": "Technology",
+        "author": "Anna Jane",
+        "date": "October 20, 2022",
+        "image": "assets/img/brand-2.webp",
+        "authorImg":"assets/img/user-img.webp"
+    },
+
+    {
+        "id": 3,
+        "title": "The Impact Of Technology on the Workplace",
+        "category": "Technology",
+        "author": "Jason Franco",
+        "date": "August 20, 2022",
+        "image": "assets/img/brand-1.webp",
+        "authorImg":"assets/img/avatar-img.webp"
+    },
+
+    {
+        "id": 4,
+        "title": "The Impact Of Technology on the Workplace",
+        "category": "Technology",
+        "author": "Anna Jane",
+        "date": "October 20, 2022",
+        "image": "assets/img/brand-2.webp",
+        "authorImg":"assets/img/user-img.webp"
+    },
+
+    {
+        "id": 5,
+        "title": "The Impact Of Technology on the Workplace",
+        "category": "Technology",
+        "author": "Jason Franco",
+        "date": "August 20, 2022",
+        "image": "assets/img/brand-1.webp",
+        "authorImg":"assets/img/avatar-img.webp"
+    },
+
+    {
+        "id": 6,
+        "title": "The Impact Of Technology on the Workplace",
+        "category": "Technology",
+        "author": "Anna Jane",
+        "date": "October 20, 2022",
+        "image": "assets/img/brand-2.webp",
+        "authorImg":"assets/img/user-img.webp"
+    },
+
+    {
+        "id": 7,
+        "title": "The Impact Of Technology on the Workplace",
+        "category": "Technology",
+        "author": "Jason Franco",
+        "date": "August 20, 2022",
+        "image": "assets/img/brand-1.webp",
+        "authorImg":"assets/img/avatar-img.webp"
+    },
+
+    {
+        "id": 8,
+        "title": "The Impact Of Technology on the Workplace",
+        "category": "Technology",
+        "author": "Anna Jane",
+        "date": "October 20, 2022",
+        "image": "assets/img/brand-2.webp",
+        "authorImg":"assets/img/user-img.webp"
+    },
+
+    {
+        "id": 9,
+        "title": "The Impact Of Technology on the Workplace",
+        "category": "Technology",
+        "author": "Jason Franco",
+        "date": "August 20, 2022",
+        "image": "assets/img/brand-1.webp",
+        "authorImg":"assets/img/avatar-img.webp"
+    },
+
+    {
+        "id": 10,
+        "title": "The Impact Of Technology on the Workplace",
+        "category": "Technology",
+        "author": "Anna Jane",
+        "date": "October 20, 2022",
+        "image": "assets/img/brand-2.webp",
+        "authorImg":"assets/img/user-img.webp"
+    },
+
+    {
+        "id": 11,
+        "title": "The Impact Of Technology on the Workplace",
+        "category": "Technology",
+        "author": "Jason Franco",
+        "date": "August 20, 2022",
+        "image": "assets/img/brand-1.webp",
+        "authorImg":"assets/img/avatar-img.webp"
+    },
+
+    {
+        "id": 12,
+        "title": "The Impact Of Technology on the Workplace",
+        "category": "Technology",
+        "author": "Anna Jane",
+        "date": "October 20, 2022",
+        "image": "assets/img/brand-2.webp",
+        "authorImg":"assets/img/user-img.webp"
+    }
+]    

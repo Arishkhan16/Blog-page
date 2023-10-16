@@ -1,0 +1,45 @@
+.list-sec{margin-bottom: 50px;}
+.list-sec .list-head{float: left; width: 100%; border-bottom: 1px solid #ddd; padding-bottom: 10px; margin-bottom: 30px;}
+.list-sec .list-head h2{float: left; width: 100%; color: #000; font-size: 35px; font-weight: 600;}
+
+.list-sec .list-card{float: left; width: 100%; border: 1px solid #acacac; border-radius: 10px; margin-bottom: 20px; padding: 15px;
+    display: flex; align-items: flex-start;}
+.list-sec .list-card .list-img img{height: 200px; object-fit: cover; width: 100%; border-radius: 10px;}
+.list-sec .list-card .list-txt{padding-left: 15px;}
+.list-sec .list-card .list-txt span{display: block; color: #000; font-weight: 600; margin-bottom: 15px; font-size: 22px;}
+.list-sec .list-card .list-txt .list-sm-txt{display: block; margin-bottom: 15px;}
+.list-sec .list-card .list-txt .list-sm-txt small{display: inline-block; background-color: rgba(127, 177, 243, 0.3); font-size: 14px; 
+    color: #004bf9; height: 35px; line-height: 33px; padding: 0px 10px; text-align: center; border-radius: 5px; font-weight: 500;}
+.list-sec .list-card .list-bottom{display: flex; align-items: center;}
+.list-sec .list-card .list-bottom .list-auth-img img{height: 50px; width: 50px; min-width: 50px; border-radius: 100%;}
+.list-sec .list-card .list-bottom .auth-name{display: inline-block; font-size: 14px; font-weight: 500; color: #6a6a6a; 
+    padding-left: 10px;}
+.list-sec .list-card .list-bottom .auth-date{display: inline-block; font-size: 14px; font-weight: 400; color: #959595; 
+    padding-left: 10px;}
+
+@media only screen and (max-width: 991px) {
+    .list-sec .list-head h2{font-size: 30px;}
+    .list-sec .list-card .list-img img {height: 170px;}
+    .list-sec .list-card .list-txt .list-sm-txt small{font-size: 12px;}
+    .list-sec .list-card .list-txt span{font-size: 16px;}
+    .list-sec .list-card .list-bottom .auth-name {font-size: 12px; padding-left: 5px;}
+    .list-sec .list-card .list-bottom .auth-date {font-size: 10px; padding-left: 5px;}
+    .list-sec .list-card .list-bottom .list-auth-img img {height: 35px; width: 35px; min-width: 35px;}
+}
+
+@media only screen and (max-width: 767px) {
+    .list-sec .list-card .list-img img {height: 150px;}
+}
+
+@media only screen and (max-width: 575px) {
+    .list-sec{margin-bottom: 20px;}
+    .list-sec .list-head h2{font-size: 25px;}
+    .list-sec .list-card .list-img img {height: 170px;}
+}
+
+@media only screen and (max-width: 420px) {
+    .list-sec .list-card{display: block;}
+    .list-sec .list-card .list-img{float: left; width: 100%; margin-bottom: 15px;}
+    .list-sec .list-card .list-img img {height: 200px;}
+    .list-sec .list-card .list-txt {padding-left: 0px;}
+}

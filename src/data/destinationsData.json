@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Dubai",
+      "image": "assets/img/dubai-10.webp"
+    },
+    {
+      "id": 2,
+      "name": "Egypt",
+      "image": "assets/img/egypt-10.webp"
+    },
+
+    {
+        "id": 3,
+        "name": "Abu Dhabi",
+        "image": "assets/img/dubai-7.webp"
+    },
+    {
+        "id": 4,
+        "name": "UAE",
+        "image": "assets/img/dubai-14.webp"
+    },
+
+    {
+        "id": 5,
+        "name": "Turkey",
+        "image": "assets/img/turkey-10.webp"
+    },
+    {
+        "id": 6,
+        "name": "Egypt",
+        "image": "assets/img/egypt-10.webp"
+    },
+
+    {
+        "id": 7,
+        "name": "UAE",
+        "image": "assets/img/dubai-14.webp"
+    },
+    {
+        "id": 8,
+        "name": "Abu Dhabi",
+        "image": "assets/img/dubai-7.webp"
+    }
+]

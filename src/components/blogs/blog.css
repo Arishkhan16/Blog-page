@@ -1,0 +1,41 @@
+.blog-sec{margin-bottom: 50px;}
+.blog-sec .blog-card{float: left; width: 100%; border: 1px solid #acacac; border-radius: 10px; margin-bottom: 20px; padding: 15px;}
+.blog-sec .blog-card .blog-img{float: left; width: 100%; margin-bottom: 15px;}
+.blog-sec .blog-card .blog-img img{height: 200px; object-fit: cover; width: 100%; border-radius: 10px;}
+.blog-sec .blog-card .blog-txt span{float: left; width: 100%; color: #000; font-weight: 600; margin-bottom: 15px; font-size: 22px;}
+.blog-sec .blog-card .blog-txt .blog-sm-txt{float: left; width: 100%; margin-bottom: 15px;}
+.blog-sec .blog-card .blog-txt .blog-sm-txt small{display: inline-block; background-color: rgba(127, 177, 243, 0.3); font-size: 14px; 
+    color: #004bf9; height: 35px; line-height: 33px; padding: 0px 10px; text-align: center; border-radius: 5px; font-weight: 500;}
+.blog-sec .blog-card .blog-bottom{float: left; width: 100%; display: flex; align-items: center;}
+.blog-sec .blog-card .blog-bottom .blog-auth-img img{height: 50px; width: 50px; min-width: 50px; border-radius: 100%;}
+.blog-sec .blog-card .blog-bottom .auth-name{display: inline-block; font-size: 14px; font-weight: 500; color: #6a6a6a; 
+    padding-left: 10px;}
+.blog-sec .blog-card .blog-bottom .blog-date{display: inline-block; font-size: 14px; font-weight: 400; color: #959595; 
+    padding-left: 10px;}
+.blog-sec .more-btn{float: left; width: 100%; display: flex; justify-content: center;}
+.blog-sec .more-btn button{height: 45px; line-height: 43px; background-color: transparent; border: 1px solid #000; border-radius: 25px;
+    color: #000; font-size: 18px; font-weight: 500; text-align: center; padding: 0px 25px;}
+.blog-sec .more-btn button:hover{background-color: #000; color: #FFF; transition: .3s;}
+
+@media only screen and (max-width: 1047px) {
+    .blog-sec .blog-card .blog-txt span{font-size: 18px;}
+}
+
+@media only screen and (max-width: 768px) {
+    .blog-sec .blog-card .blog-img img{height: 150px;}
+    .blog-sec .blog-card .blog-txt span{font-size: 16px;}
+    .blog-sec .blog-card .blog-bottom .auth-name{font-size: 12px;}
+    .blog-sec .blog-card .blog-bottom .blog-auth-img img{height: 35px; width: 35px; min-width: 35px;}   
+    .blog-sec .blog-card .blog-bottom .blog-date {font-size: 10px; padding-left: 5px;}
+}
+
+@media only screen and (max-width: 575px) {
+    .blog-sec{margin-bottom: 30px;}
+    .blog-sec .blog-card .blog-txt .blog-sm-txt small{font-size: 12px;}
+    .blog-sec .blog-card .blog-img img{height: 230px;}
+    .blog-sec .more-btn button{padding: 0px 20px; font-size: 16px;}
+}
+
+@media only screen and (max-width: 575px) {
+    .blog-sec .blog-card .blog-img img{height: 170px;}
+}

@@ -1,0 +1,16 @@
+.top-menu .navbar{background-color: #FFF; box-shadow: 0px 0px 5px 0px rgba(170,170,170,0.75);}
+.top-menu .logo img{height: 50px;}
+.top-menu .right-side{display: flex; align-items: center; float: right;}
+.top-menu .right-side a{display: inline-block; padding: 0px 15px; height: 39px; line-height: 37px; background-color: #000; 
+    border-radius: 10px; text-align: center; color: #FFF; font-size: 16px; font-weight: 500; text-decoration: none;}
+.top-menu .right-side a:hover{background-color: #DDD; color: #000; transition: .3s;}
+.top-menu .navbar-toggler:focus{box-shadow: unset;}
+
+@media only screen and (max-width: 991px) {
+    .top-menu .right-side{justify-content: center; float: left; width: 100%; margin-top: 10px;}
+}
+
+@media only screen and (max-width: 420px) {
+    .top-menu .right-side{display: block; text-align: center;}
+    .top-menu .right-side a{margin-top: 10px;}
+}
